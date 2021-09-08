@@ -10,6 +10,7 @@ namespace _14Interface
 
             c.somar(10, 15);
             c.subtrair(50, 18);
+            c.multiplicar(10, 10);
         }
     }
 }

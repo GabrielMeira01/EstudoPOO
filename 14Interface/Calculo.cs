@@ -13,4 +13,8 @@ class Calculo : IPadrao
         Console.WriteLine("A subtração é " + (n1 - n2));
     }
     
+    public void multiplicar(int n1, int n2)
+    {
+        Console.WriteLine("A multiplicação é " + (n1 * n2));
+    }
 }

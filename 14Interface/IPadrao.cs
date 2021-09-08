@@ -4,4 +4,5 @@ interface IPadrao
 
     void subtrair(int n1, int n2);
 
+    void multiplicar(int n1, int n2);
 }
