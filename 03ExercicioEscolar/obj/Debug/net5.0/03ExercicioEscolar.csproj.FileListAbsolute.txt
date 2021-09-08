@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Desktop\Orientacao a objetos\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Orientacao a objetos\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Orientacao a objetos\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Orientacao a objetos\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Orientacao a objetos\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Orientacao a objetos\03ExercicioEscolar\bin\Debug\net5.0\03ExercicioEscolar.exe
+C:\Users\Gabriel\Desktop\Orientacao a objetos\03ExercicioEscolar\bin\Debug\net5.0\03ExercicioEscolar.deps.json
+C:\Users\Gabriel\Desktop\Orientacao a objetos\03ExercicioEscolar\bin\Debug\net5.0\03ExercicioEscolar.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Orientacao a objetos\03ExercicioEscolar\bin\Debug\net5.0\03ExercicioEscolar.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Orientacao a objetos\03ExercicioEscolar\bin\Debug\net5.0\03ExercicioEscolar.dll
+C:\Users\Gabriel\Desktop\Orientacao a objetos\03ExercicioEscolar\bin\Debug\net5.0\ref\03ExercicioEscolar.dll
+C:\Users\Gabriel\Desktop\Orientacao a objetos\03ExercicioEscolar\bin\Debug\net5.0\03ExercicioEscolar.pdb
+C:\Users\Gabriel\Desktop\Orientacao a objetos\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.dll
+C:\Users\Gabriel\Desktop\Orientacao a objetos\03ExercicioEscolar\obj\Debug\net5.0\ref\03ExercicioEscolar.dll
+C:\Users\Gabriel\Desktop\Orientacao a objetos\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.pdb
+C:\Users\Gabriel\Desktop\Orientacao a objetos\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.genruntimeconfig.cache

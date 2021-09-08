@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Desktop\Orientacao a objetos\13Abstracao\bin\Debug\net5.0\13Abstracao.exe
+C:\Users\Gabriel\Desktop\Orientacao a objetos\13Abstracao\bin\Debug\net5.0\13Abstracao.deps.json
+C:\Users\Gabriel\Desktop\Orientacao a objetos\13Abstracao\bin\Debug\net5.0\13Abstracao.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Orientacao a objetos\13Abstracao\bin\Debug\net5.0\13Abstracao.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Orientacao a objetos\13Abstracao\bin\Debug\net5.0\13Abstracao.dll
+C:\Users\Gabriel\Desktop\Orientacao a objetos\13Abstracao\bin\Debug\net5.0\ref\13Abstracao.dll
+C:\Users\Gabriel\Desktop\Orientacao a objetos\13Abstracao\bin\Debug\net5.0\13Abstracao.pdb
+C:\Users\Gabriel\Desktop\Orientacao a objetos\13Abstracao\obj\Debug\net5.0\13Abstracao.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Orientacao a objetos\13Abstracao\obj\Debug\net5.0\13Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Orientacao a objetos\13Abstracao\obj\Debug\net5.0\13Abstracao.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Orientacao a objetos\13Abstracao\obj\Debug\net5.0\13Abstracao.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Orientacao a objetos\13Abstracao\obj\Debug\net5.0\13Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Orientacao a objetos\13Abstracao\obj\Debug\net5.0\13Abstracao.dll
+C:\Users\Gabriel\Desktop\Orientacao a objetos\13Abstracao\obj\Debug\net5.0\ref\13Abstracao.dll
+C:\Users\Gabriel\Desktop\Orientacao a objetos\13Abstracao\obj\Debug\net5.0\13Abstracao.pdb
+C:\Users\Gabriel\Desktop\Orientacao a objetos\13Abstracao\obj\Debug\net5.0\13Abstracao.genruntimeconfig.cache

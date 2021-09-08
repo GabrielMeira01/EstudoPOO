@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Desktop\Orientacao a objetos\08SetGet\bin\Debug\net5.0\08SetGet.exe
+C:\Users\Gabriel\Desktop\Orientacao a objetos\08SetGet\bin\Debug\net5.0\08SetGet.deps.json
+C:\Users\Gabriel\Desktop\Orientacao a objetos\08SetGet\bin\Debug\net5.0\08SetGet.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Orientacao a objetos\08SetGet\bin\Debug\net5.0\08SetGet.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Orientacao a objetos\08SetGet\bin\Debug\net5.0\08SetGet.dll
+C:\Users\Gabriel\Desktop\Orientacao a objetos\08SetGet\bin\Debug\net5.0\ref\08SetGet.dll
+C:\Users\Gabriel\Desktop\Orientacao a objetos\08SetGet\bin\Debug\net5.0\08SetGet.pdb
+C:\Users\Gabriel\Desktop\Orientacao a objetos\08SetGet\obj\Debug\net5.0\08SetGet.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Orientacao a objetos\08SetGet\obj\Debug\net5.0\08SetGet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Orientacao a objetos\08SetGet\obj\Debug\net5.0\08SetGet.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Orientacao a objetos\08SetGet\obj\Debug\net5.0\08SetGet.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Orientacao a objetos\08SetGet\obj\Debug\net5.0\08SetGet.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Orientacao a objetos\08SetGet\obj\Debug\net5.0\08SetGet.dll
+C:\Users\Gabriel\Desktop\Orientacao a objetos\08SetGet\obj\Debug\net5.0\ref\08SetGet.dll
+C:\Users\Gabriel\Desktop\Orientacao a objetos\08SetGet\obj\Debug\net5.0\08SetGet.pdb
+C:\Users\Gabriel\Desktop\Orientacao a objetos\08SetGet\obj\Debug\net5.0\08SetGet.genruntimeconfig.cache
